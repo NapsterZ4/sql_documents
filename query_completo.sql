@@ -16,11 +16,9 @@ GO
 
 CREATE TABLE [factura] (
   [id_factura] integer PRIMARY KEY NOT NULL,
-  [cabecera] nvarchar(255),
   [fecha] date,
   [hora] integer,
   [monto] float,
-  [cantidad] integer
 )
 GO
 
