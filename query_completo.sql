@@ -42,12 +42,12 @@ GO
 insert into departamento (id_departamento, nombre_departamento) values (1, 'Legal');
 insert into departamento (id_departamento, nombre_departamento) values (2, 'Support');
 insert into departamento (id_departamento, nombre_departamento) values (3, 'Sales');
-insert into departamento (id_departamento, nombre_departamento) values (4, 'Legal');
+insert into departamento (id_departamento, nombre_departamento) values (4, 'Human Resources');
 insert into departamento (id_departamento, nombre_departamento) values (5, 'Business Development');
 insert into departamento (id_departamento, nombre_departamento) values (6, 'Training');
 insert into departamento (id_departamento, nombre_departamento) values (7, 'Services');
 insert into departamento (id_departamento, nombre_departamento) values (8, 'Accounting');
-insert into departamento (id_departamento, nombre_departamento) values (9, 'Support');
+insert into departamento (id_departamento, nombre_departamento) values (9, 'Administration');
 insert into departamento (id_departamento, nombre_departamento) values (10, 'Engineering');
 
 --Tienda
