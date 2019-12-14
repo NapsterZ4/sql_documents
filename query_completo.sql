@@ -24,7 +24,7 @@ GO
 
 CREATE TABLE [departamento] (
   [id_departamento] integer PRIMARY KEY NOT NULL,
-  [nombre_departamento] varchar
+  [nombre_departamento] nvarchar(255),
 )
 GO
 
